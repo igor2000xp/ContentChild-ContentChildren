@@ -8,6 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [GitHub](https://github.com/igor2000xp/ContentChild-ContentChildren)
 
+[Notion](https://www.notion.so/ContentChild-ContentChildren-Angular-1306bddbc491801d9a2cd481a955d436)
+
 /Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/ContentChild-ContentChildren/ContentChild-ContentChildren
 
 ## Development server
